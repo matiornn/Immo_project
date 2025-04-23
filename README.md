@@ -31,6 +31,3 @@ Tous les détails techniques concernant le traitement des données, l'architectu
 * Clémence Legendre
 * Mattéo Rouanne
 
-## Remerciements
-
-Merci à [éventuellement, mentionner les personnes ou les ressources qui vous ont aidés].
